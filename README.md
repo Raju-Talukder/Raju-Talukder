@@ -4,8 +4,10 @@
 <!-- [![Twitter Follow](https://img.shields.io/twitter/follow/codeSTACKr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=codeSTACKr) -->
 
 ## I'm a Cyber Security Researcher | Penetration Tester | Certified Ethical Hacker
+Me Raju Talukder, as an enthusiastic and experienced Cyber Security Researcher since 2019. I love to find out security flaws and vulnerabilities in web applications, network and server system. Love to travel, programming and playing CTF in my free time.
+Cyber Security is just an illusion and Research is my passion.
 
-
+---
 ### Connect with me:
 [<img align="left" alt="rajutalukder.me" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="Raju Talukder | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
