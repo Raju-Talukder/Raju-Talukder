@@ -18,11 +18,11 @@
 
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][]
 
-<br />
-<br />
 
 ---
-<img src="https://github-readme-stats.vercel.app/api?username=Raju-Talukder&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
+<p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=Raju-Talukder&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
+</p>
 
 [website]: https://rajutalukder.me
 [youtube]: https://www.youtube.com/channel/UCPIzhMsW9T98o_8F5XS3eOA
