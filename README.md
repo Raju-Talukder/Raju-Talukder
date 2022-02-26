@@ -32,7 +32,7 @@ Cyber Security is just an illusion and Research is my passion.
 <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> 
 </p>
 
-<p> 
+<p align="center"> 
    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=raju-talukder&show_icons=true&title_color=ffffff&icon_color=18acb66&text_color=daf7dc&bg_color=151515&locale=en&layout=compact" alt="raju-talukder" />
 </p>
 
