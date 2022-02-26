@@ -36,7 +36,7 @@ Cyber Security is just an illusion and Research is my passion.
 </p>
 
 
-<p align="center"> &nbsp;
+<p align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=Raju-Talukder&&show_icons=true&title_color=ffffff&icon_color=18acb66&text_color=daf7dc&bg_color=151515">
 </p>
 
