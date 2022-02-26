@@ -31,16 +31,17 @@ Cyber Security is just an illusion and Research is my passion.
 <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> 
 </p>
 </br>
-<p align="left"> 
-   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=raju-talukder&show_icons=true&title_color=ffffff&icon_color=18acb66&text_color=daf7dc&bg_color=151515&locale=en&layout=compact" alt="raju-talukder" />
-</p>
-<p align="center">
-   <img src="https://github-readme-streak-stats.herokuapp.com/?user=raju-talukder&" alt="raju-talukder" />
+<p> 
+   <img align="left" width="480" src="https://github-readme-stats.vercel.app/api/top-langs?username=raju-talukder&show_icons=true&title_color=ffffff&icon_color=18acb66&text_color=daf7dc&bg_color=151515&locale=en&layout=compact" alt="raju-talukder" />
+   <img align="right" width="480" src="https://github-readme-streak-stats.herokuapp.com/?user=raju-talukder&" alt="raju-talukder" />
 </p>
 
-<p align="right"> &nbsp;
-    <img src="https://github-readme-stats.vercel.app/api?username=Raju-Talukder&&show_icons=true&title_color=ffffff&icon_color=18acb66&text_color=daf7dc&bg_color=151515">
-</p>
+<div>
+   <img align="" src="https://github-readme-stats.vercel.app/api?username=Raju-Talukder&&show_icons=true&title_color=ffffff&icon_color=18acb66&text_color=daf7dc&bg_color=151515">
+</div>
+<!-- <p > &nbsp;
+
+</p> -->
 
 
 [website]: https://rajutalukder.me
