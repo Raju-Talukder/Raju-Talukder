@@ -1,10 +1,9 @@
 <h1 align="center"> Hi there, I'm Raju Talukder 👋 </h1>
 
 [![Website](https://img.shields.io/website?label=rajutalukder.me&style=for-the-badge&url=https%3A%2F%2Frajutalukder.me)](https://rajutalukder.me)
+<p> <img src="https://komarev.com/ghpvc/?username=raju-talukder&label=Profile%20views&color=0e75b6&style=flat" alt="raju-talukder" /> </p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=raju-talukder&label=Profile%20views&color=0e75b6&style=flat" alt="raju-talukder" /> </p>
-
-## I'm a Cyber Security Researcher | Penetration Tester | Certified Ethical Hacker
+## Cyber Security Researcher | Penetration Tester | Certified Ethical Hacker
 Me Raju Talukder, as an enthusiastic and experienced Cyber Security Researcher since 2019. I love to find out security flaws and vulnerabilities in web applications, network and server system. Love to travel, programming and playing CTF in my free time.
 Cyber Security is just an illusion and Research is my passion.
 
