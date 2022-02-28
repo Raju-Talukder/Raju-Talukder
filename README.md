@@ -1,6 +1,6 @@
 <h1 align="center"> Hi there, I'm Raju Talukder 👋 </h1>
 
-[![Website](https://img.shields.io/website?label=rajutalukder.me&style=for-the-badge&url=https%3A%2F%2Frajutalukder.me)](https://rajutalukder.me)
+[![Website](https://img.shields.io/website?label=rajutalukder.me&style=for-the-badge&url=https%3A%2F%2Frajutalukder.me)](http://rajutalukder.liveblog365.com/)
 <p> <img src="https://komarev.com/ghpvc/?username=raju-talukder&label=Profile%20views&color=0e75b6&style=flat" alt="raju-talukder" /> </p>
 
 ## Cyber Security Researcher | Penetration Tester | Certified Ethical Hacker
