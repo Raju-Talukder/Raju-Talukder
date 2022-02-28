@@ -41,4 +41,4 @@ Cyber Security is just an illusion and Research is my passion.
 </div>
 
 
-[website]: https://rajutalukder.me
+[website]: http://rajutalukder.liveblog365.com/
